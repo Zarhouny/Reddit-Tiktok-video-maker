@@ -24,18 +24,21 @@ Used Libraries for this project include:
 - and some python defualt packages ex: *math, os, random...*
 
 # Guide 🔧
+- this script only works on windows devices
 - you must have python already installed ( *preferably* **3.8v+**)
 - install all the libraries used in the script before using
 ``` (pip install package_name)```
-1) go to info.py and fill in your information, **DO NOT SHARE THAT FILE OR INFO WITH ANYONE, IT CAN GET YOUR Reddit ACCOUNT HACKED AND I WILL NOT BE RESPONSIBLE**
+1) create a reddit bot on https://reddit.com/prefs/apps
 
-2) run the script
+2) go to info.py and fill in your information, **DO NOT SHARE THAT FILE OR INFO WITH ANYONE, IT CAN GET YOUR Reddit ACCOUNT HACKED AND I WILL NOT BE RESPONSIBLE**
 
-3) follow the Instructions
+3) run the script
 
-4) after the script is Done, you will find your output video in assets/Result,along with other assets like screenshots/background/sounds on thier assigned files in the assets folder
+4) follow the Instructions
 
-5) Everything in the assets directory files will be deleted uppon each execution of the script
+5) after the script is Done, you will find your output video in assets/Result,along with other assets like screenshots/background/sounds on thier assigned files in the assets folder
+
+6) Everything in the assets directory files will be deleted uppon each execution of the script
 
 # Inspiration
 this was moslty inspired by [coding with Lewis](https://youtube.com/@CodingWithLewis) on youtube, where he Made a Project similar to this, and it just so happend that I was learning python at the time the video was recommended to me, I thought it was a good learning experience
