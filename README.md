@@ -24,6 +24,9 @@ Used Libraries for this project include:
 - and some python defualt packages ex: *math, os, random...*
 
 # Guide 🔧
+- you must have python already installed ( *preferably* **3.8v+**)
+- install all the libraries used in the script before using
+``` (pip install package_name)```
 1) go to info.py and fill in your information, **DO NOT SHARE THAT FILE OR INFO WITH ANYONE, IT CAN GET YOUR Reddit ACCOUNT HACKED AND I WILL NOT BE RESPONSIBLE**
 
 2) run the script
