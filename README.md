@@ -1,4 +1,6 @@
-# Reddit-Tiktok-video-maker
+this project is no longer maintained, and as of 2026, does no longer work.
+
+# Reddit-Tiktok video maker
 A script for automating creating short Tiktok Reddit content.
 Ever stumble uppon those reddit videos on your For-you page? y'know, those where they just read a reddit post and its comment?
 # Well, it just got AUTOMATED ✨
@@ -30,7 +32,7 @@ Used Libraries for this project include:
 ``` (pip install package_name)```
 1) create a reddit bot on https://reddit.com/prefs/apps
 
-2) go to info.py and fill in your information, **DO NOT SHARE THAT FILE OR INFO WITH ANYONE, IT CAN GET YOUR Reddit ACCOUNT HACKED AND I WILL NOT BE RESPONSIBLE**
+2) go to info.py and fill in your information, **DO NOT SHARE THAT FILE OR INFO WITH ANYONE.E**
 
 3) run the script
 
@@ -42,5 +44,4 @@ Used Libraries for this project include:
 
 # Inspiration
 this was moslty inspired by [coding with Lewis](https://youtube.com/@CodingWithLewis) on youtube, where he Made a Project similar to this, and it just so happend that I was learning python at the time the video was recommended to me, I thought it was a good learning experience
-# Feedback 📋
-#### If you're facing any issues with this script *or* would like to share your thought *or* just wanna talk, reach out to me on Discord! Speed#0433 :)
+
